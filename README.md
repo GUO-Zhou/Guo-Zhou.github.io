@@ -1,3 +1,2 @@
-# Guo Zhou Multi-modal Data Learning
-## Identification and delineation of municipal solid waste from VHR images
-###
+# Identification and delineation of municipal solid waste (MSW)
+## Monitoring municipal solid waste (MSW) with remote sensing images is of great significance to urban environment and well-beings of city residences. Existing studies have employed very-high-resolution (VHR) images for identifying MSWs. However, automating such a task is challenging due to the complexed and irregular spectra and geometry characteristics of MSWs. In this letter, a novel approach which adopts a dual-branch network and an encoder-decoder architecture, named SCED-Net, to improve the identification and delineation of MSW is proposed...
